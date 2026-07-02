@@ -1,2 +1,14 @@
-# ocio
-KAMI clj-wgsl migration Phase 4 home (ADR-2607010930) — scaffold, Wave-2 port lands here
+# kotoba-lang/ocio
+
+OpenColorIO config builders and YAML emitter.
+
+Namespaces:
+
+- `ocio.core`
+- `kotoba.ocio`
+
+## Test
+
+```sh
+clojure -M:test
+```
